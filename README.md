@@ -84,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Kanchan20005/SQL-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/Kanchan20005/SQL-Leetcode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
